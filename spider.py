@@ -173,6 +173,7 @@ def init_db(dbpath):
 
 if __name__ == "__main__":  # 当程序执行时
     # 调用函数
+    #
     main()
     # init_db("movietest.db")
     # print("db successful")
